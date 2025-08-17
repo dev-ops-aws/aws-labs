@@ -1,1 +1,1 @@
-# Sonix aws-labs
+# aws-labs
